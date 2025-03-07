@@ -4,6 +4,10 @@
     $rol = $session->get("ID_Rol");
 
 ?>
+<<<<<<< HEAD
+=======
+yu
+>>>>>>> e5bcbe5e3561a9f8f79cd169fa3bb1e95774977d
 <!doctype html>
 <html lang="en">
   <head>
